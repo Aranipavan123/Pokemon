@@ -1,0 +1,22 @@
+{
+  "name": "pokemon",
+  "version": "1.0.0",
+  "description": "It is to fectch details of pokemon using API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "to",
+    "fetch",
+    "pokemon",
+    "details"
+  ],
+  "author": "pavan arani",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
